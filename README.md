@@ -18,8 +18,8 @@
 		<tr> <th colspan="3">💻Libraries / Projects💻</th> </tr>
 		<tr>
 			<td>
-				<img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
-				<a href="https://github.com/xXxCLOTIxXx/AminoXZ"> AminoXZ </a>
+				<a href="https://github.com/xXxCLOTIxXx/AminoXZ"><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
+				 AminoXZ </a>
 			</td>
 		</tr>
 	</table>
