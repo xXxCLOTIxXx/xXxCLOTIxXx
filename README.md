@@ -14,7 +14,7 @@
 		</ul>
 	</div>
 	<div>
-	<table>
+	<table align="center">
 		<tr> <th colspan="3">💻Libraries / Projects💻</th> </tr>
 		<tr>
 			<td>
