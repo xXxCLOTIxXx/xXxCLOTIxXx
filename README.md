@@ -15,7 +15,7 @@
 	</div>
 	<div>	
 	<table align="center">
-		<tr> <th colspan="3">💻Libraries / Projects💻</th> </tr>
+		<tr> <th colspan="3">💻Libraries💻</th> </tr>
 		<tr>
 			<td>
 				<a href="https://github.com/xXxCLOTIxXx/AminoXZ"><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
@@ -24,7 +24,7 @@
 		</tr>
 	</table>
 	<table align="center">
-		<tr> <th colspan="3">💻Libraries / Projects💻</th> </tr>
+		<tr> <th colspan="3">💻Scripts / Bots💻</th> </tr>
 		<tr>
 			<td>
 				<a href=""><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
