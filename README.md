@@ -23,6 +23,27 @@
 			</td>
 		</tr>
 	</table>
+		
+	<table align="center">
+		<tr> <th colspan="3">👾Scripts / Bots👾</th> </tr>
+		<tr>
+			<td>
+				<a href=""><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
+				 Amino BotNet </a>
+			</td>
+			
+			<td>
+				<a href=""><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
+				 Amino Piar BotNet </a>
+			</td>
+			
+			<td>
+				<a href=""><img src="https://i.imgur.com/49WtRwD.png" height="25px">
+				 projz BotNet </a>
+			</td>
+		</tr>
+	</table>
+		
 	</div>
 	<details align="center">
 		<summary><b>📱Contact me📱</b></summary>
