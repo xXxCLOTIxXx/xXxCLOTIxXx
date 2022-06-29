@@ -27,11 +27,11 @@
 		<tr> <th colspan="3">💻Scripts / Bots💻</th> </tr>
 		<tr>
 			<td>
-				<a href="https://github.com/xXxCLOTIxXx/AminoBOTNET"><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
+				<a href="https://github.com/xXxCLOTIxXx/AminoBOTNET"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Amino_icon.jpg" height="25px">
 				 Amino BotNet </a>
 			</td>
 			<td>
-				<a href="https://github.com/xXxCLOTIxXx/Amino-Piar-BotNet"><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
+				<a href="https://github.com/xXxCLOTIxXx/Amino-Piar-BotNet"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Amino_icon.jpg" height="25px">
 				 Amino Piar BotNet </a>
 			</td>
 			<td>
