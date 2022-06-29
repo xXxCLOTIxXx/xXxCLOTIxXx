@@ -31,7 +31,7 @@
 				 Amino BotNet </a>
 			</td>
 			<td>
-				<a href=""><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
+				<a href="https://github.com/xXxCLOTIxXx/Amino-Piar-BotNet"><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
 				 Amino Piar BotNet </a>
 			</td>
 			<td>
