@@ -13,9 +13,15 @@
 			<li><b>🗃Trying to learn:</b> Programming </li>
 		</ul>
 	</div>
-	<div>
+	<div>	
 	<table align="center">
-		<tr> <th colspan="3">👾Scripts / Bots👾</th> </tr>
+		<tr> <th colspan="3">💻Libraries / Projects💻</th> </tr>
+		<tr>
+			<td>
+				<a href="https://github.com/xXxCLOTIxXx/AminoXZ"><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
+				 AminoXZ </a>
+			</td>
+		</tr>
 		<tr>
 			<td>
 				<a href=""><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
@@ -30,15 +36,6 @@
 			<td>
 				<a href=""><img src="https://i.imgur.com/49WtRwD.png" height="25px">
 				 projz BotNet </a>
-			</td>
-		</tr>
-	</table>	
-	<table align="center">
-		<tr> <th colspan="3">💻Libraries / Projects💻</th> </tr>
-		<tr>
-			<td>
-				<a href="https://github.com/xXxCLOTIxXx/AminoXZ"><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
-				 AminoXZ </a>
 			</td>
 		</tr>
 	</table>		
