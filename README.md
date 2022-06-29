@@ -42,7 +42,6 @@
 			</td>
 		</tr>
 	</table>
-		
 	</div>
 	<details align="center">
 		<summary><b>📱Contact me📱</b></summary>
