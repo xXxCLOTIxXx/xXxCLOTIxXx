@@ -27,12 +27,8 @@
 		<tr> <th colspan="3">💻Scripts / Bots💻</th> </tr>
 		<tr>
 			<td>
-				<a href="https://github.com/xXxCLOTIxXx/AminoBOTNET"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Amino_icon.jpg" height="25px">
-				 Amino Coin Generator </a>
-			</td>
-			<td>
 				<a href="https://github.com/xXxCLOTIxXx/aminoCoinGen"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Amino_icon.jpg" height="25px">
-				 Amino Piar BotNet </a>
+				 Amino Coin Generator </a>
 			</td>
 			<td>
 				<a href="https://github.com/xXxCLOTIxXx/projZ-BOTNET-V1.2"><img src="https://i.imgur.com/49WtRwD.png" height="25px">
