@@ -28,10 +28,10 @@
 		<tr>
 			<td>
 				<a href="https://github.com/xXxCLOTIxXx/AminoBOTNET"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Amino_icon.jpg" height="25px">
-				 Amino BotNet </a>
+				 Amino Coin Generator </a>
 			</td>
 			<td>
-				<a href="https://github.com/xXxCLOTIxXx/Amino-Piar-BotNet"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Amino_icon.jpg" height="25px">
+				<a href="https://github.com/xXxCLOTIxXx/aminoCoinGen"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Amino_icon.jpg" height="25px">
 				 Amino Piar BotNet </a>
 			</td>
 			<td>
