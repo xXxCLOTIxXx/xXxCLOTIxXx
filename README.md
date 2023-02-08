@@ -21,10 +21,8 @@
 				<a href="https://github.com/xXxCLOTIxXx/AminoXZ"><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
 				 AminoXZ </a>
 			</td>
-		</tr>
-		<tr>
 			<td>
-				<a href="https://github.com/xXxCLOTIxXx/projectZ.py"><img src="https://i.imgur.com/49WtRwD.png" height="25px">
+				<a href="https://github.com/xXxCLOTIxXx/projectZ.py"><img src="https://i.imgur.com/49WtRwD.png" height="50px">
 				 projectZ.py </a>
 			</td>
 		</tr>
