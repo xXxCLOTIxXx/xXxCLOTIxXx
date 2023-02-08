@@ -22,14 +22,12 @@
 				 AminoXZ </a>
 			</td>
 		</tr>
-		
 		<tr>
 			<td>
 				<a href="https://github.com/xXxCLOTIxXx/projectZ.py"><img src="https://i.imgur.com/49WtRwD.png" height="25px">
 				 projectZ.py </a>
 			</td>
 		</tr>
-		
 	</table>
 	<table align="center">
 		<tr> <th colspan="3">💻Scripts / Bots💻</th> </tr>
