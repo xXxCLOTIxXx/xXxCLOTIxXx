@@ -25,6 +25,10 @@
 				<a href="https://github.com/xXxCLOTIxXx/projectZ.py"><img src="https://i.imgur.com/49WtRwD.png" height="50px">
 				 projectZ.py </a>
 			</td>
+			<td>
+				<a href="https://github.com/xXxCLOTIxXx/nz-ua.py"><img src="https://scontent-iev1-1.xx.fbcdn.net/v/t1.6435-9/124936969_115313157055501_1090188700844931789_n.png?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_ohc=Vmfx-yb9nNgAX_j0pZ7&_nc_ht=scontent-iev1-1.xx&oh=00_AfCjibjU5JhAHjqEUQz-ULzaOGDJKAaTS8et-v36oY3PCg&oe=64170D84" height="50px">
+				 nz-ua.py </a>
+			</td>
 		</tr>
 	</table>
 	<table align="center">
