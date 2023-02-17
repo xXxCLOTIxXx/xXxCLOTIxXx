@@ -26,7 +26,7 @@
 				 projectZ.py </a>
 			</td>
 			<td>
-				<a href="https://github.com/xXxCLOTIxXx/nz-ua.py"><img src="https://scontent-iev1-1.xx.fbcdn.net/v/t1.6435-9/124936969_115313157055501_1090188700844931789_n.png?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_ohc=Vmfx-yb9nNgAX_j0pZ7&_nc_ht=scontent-iev1-1.xx&oh=00_AfCjibjU5JhAHjqEUQz-ULzaOGDJKAaTS8et-v36oY3PCg&oe=64170D84" height="50px">
+				<a href="https://github.com/xXxCLOTIxXx/nz-ua.py"><img src="https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/307684108_956681881954036_8347274730309784612_n.png?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Jph0NLiItBQAX_9pYg6&_nc_ht=scontent-iev1-1.xx&oh=00_AfD1N_KBDzv4ZpHLHr2jGOL8HBNDzssMX_p4iSE8nr8srw&oe=63F46572" height="50px">
 				 nz-ua.py </a>
 			</td>
 		</tr>
