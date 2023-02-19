@@ -41,7 +41,7 @@
 		<p align="center"><a href="https://t.me/DxsarzUnion" target="_blank"><img src="https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></p></a>
 		<p align="center"><a href="https://www.youtube.com/channel/UCNKEgQmAvt6dD7jeMLpte9Q" target="_blank"><img src="https://img.shields.io/badge/Xsarz%20XZ-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></p>
 		<p align="center"><a href="https://vk.com/markrender" target="_blank"><img src="https://img.shields.io/badge/markrender-597da3?style=for-the-badge&logo=vk&logoColor=white"></p></a>
-		<p align="center"><img src="https://img.shields.io/badge/Xsarz%205092-37393d?style=for-the-badge&logo=discord&logoColor=white"></p>
+		<p align="center"><a href="#" target="_blank"><img src="https://img.shields.io/badge/Xsarz%205092-37393d?style=for-the-badge&logo=discord&logoColor=white"></a></p>
 		<p align="center"><a href="https://discord.gg/GtpUnsHHT4" target="_blank"><img src="https://img.shields.io/badge/Discord%20Server-37393d?style=for-the-badge&logo=discord&logoColor=white"></p></a>
 	<div align="center">
 		<h2 align="center">🪐Knowledge of programming languages🪐 </h2>
