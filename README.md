@@ -9,8 +9,7 @@
 		<ul>
 			<li><b>📜Nick:</b> Xsarz / Xsarzy </li>
 			<li><b>💞Loves:</b> Gaming🎮 | Moto/Auto🏍 | Programming </li>
-			<li><b>🎧Hobbies:</b> Programming | reading novels | riding a moto</li>
-			<li><b>🗃Trying to learn:</b> Programming </li>
+			<li><b>🗃Trying to learn:</b> Network traffic analysis </li>
 		</ul>
 	</div>
 	<div>	
