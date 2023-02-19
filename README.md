@@ -36,7 +36,7 @@
 		</tr>
 	</table>	
 	</div>
-		<summary><b>📱Contact me📱</b></summary>
+		<h1 align="center">📱Contact me📱</h1>
 		<p align="center"><a href="https://t.me/@DXsarz" target="_blank"><img src="https://img.shields.io/badge/@DXsarz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></p>
 		<p align="center"><a href="https://t.me/DxsarzUnion" target="_blank"><img src="https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></p></a>
 		<p align="center"><a href="https://www.youtube.com/channel/UCNKEgQmAvt6dD7jeMLpte9Q" target="_blank"><img src="https://img.shields.io/badge/Xsarz%20XZ-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></p>
