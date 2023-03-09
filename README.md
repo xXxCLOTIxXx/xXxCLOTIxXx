@@ -6,7 +6,7 @@
 	<br>
 	<div>	
 	<table align="center">
-		<tr> <th colspan="3">💻Libraries💻</th> </tr>
+		<tr> <th colspan="4">💻Libraries💻</th> </tr>
 		<tr>
 			<td>
 				<a href="https://github.com/xXxCLOTIxXx/AminoXZ"><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
