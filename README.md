@@ -21,7 +21,7 @@
 				 nz-ua.py </a>
 			</td>
 			<td>
-				<a href="https://github.com/xXxCLOTIxXx/ClashOfClans.py"><img src="https://www.iconspng.com/uploads/clash-of-clans-logo.png" height="50px">
+				<a href="https://github.com/xXxCLOTIxXx/ClashOfClans.py"><img src="https://cdn3.freelogovectors.net/wp-content/uploads/2021/10/clash-of-clans-logo-freelogovectors.net_.png" height="50px">
 				 ClashOfClans.py </a>
 			</td>
 		</tr>
