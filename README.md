@@ -20,6 +20,10 @@
 				<a href="https://github.com/xXxCLOTIxXx/nz-ua.py"><img src="https://scontent-iev1-1.xx.fbcdn.net/v/t39.30808-6/307684108_956681881954036_8347274730309784612_n.png?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Jph0NLiItBQAX_9pYg6&_nc_ht=scontent-iev1-1.xx&oh=00_AfD1N_KBDzv4ZpHLHr2jGOL8HBNDzssMX_p4iSE8nr8srw&oe=63F46572" height="50px">
 				 nz-ua.py </a>
 			</td>
+			<td>
+				<a href="https://github.com/xXxCLOTIxXx/ClashOfClans.py"><img src="https://www.iconspng.com/uploads/clash-of-clans-logo.png" height="50px">
+				 ClashOfClans.py </a>
+			</td>
 		</tr>
 	</table>
 	<table align="center">
