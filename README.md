@@ -24,8 +24,10 @@
 				<a href="https://github.com/xXxCLOTIxXx/ClashOfClans.py"><img src="https://cdn3.freelogovectors.net/wp-content/uploads/2021/10/clash-of-clans-logo-freelogovectors.net_.png" height="50px">
 				 ClashOfClans.py </a>
 			</td>
+		</tr>
+		<tr>
 			<td>
-				<a href="https://github.com/xXxCLOTIxXx/stationhead"><img src="https://site-images.similarcdn.com/url?url=https%3A%2F%2Fplay-lh.googleusercontent.com%2Ft_rVJjCACE-Mba77nEFHD-PVk7lpgpacQgU7Q31D8pHrP8AI-w4QE_UPbi0Y_tCcQUI%3Ds180&h=1e348ac5f31ff792b146194ac2b470f88ad815a0c6a48bdb200718daa6190744" height="25px">
+				<a href="https://github.com/xXxCLOTIxXx/stationhead"><img src="https://site-images.similarcdn.com/url?url=https%3A%2F%2Fplay-lh.googleusercontent.com%2Ft_rVJjCACE-Mba77nEFHD-PVk7lpgpacQgU7Q31D8pHrP8AI-w4QE_UPbi0Y_tCcQUI%3Ds180&h=1e348ac5f31ff792b146194ac2b470f88ad815a0c6a48bdb200718daa6190744" height="50px">
 				 Stationhead </a>
 			</td>
 		</tr>
