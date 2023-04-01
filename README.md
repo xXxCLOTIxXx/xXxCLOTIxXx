@@ -30,6 +30,10 @@
 				<a href="https://github.com/xXxCLOTIxXx/stationhead"><img src="https://site-images.similarcdn.com/url?url=https%3A%2F%2Fplay-lh.googleusercontent.com%2Ft_rVJjCACE-Mba77nEFHD-PVk7lpgpacQgU7Q31D8pHrP8AI-w4QE_UPbi0Y_tCcQUI%3Ds180&h=1e348ac5f31ff792b146194ac2b470f88ad815a0c6a48bdb200718daa6190744" height="50px">
 				 Stationhead </a>
 			</td>
+			<td>
+				<a href="https://github.com/xXxCLOTIxXx/discord"><img src="https://static.wikia.nocookie.net/hypixel_skyblock/images/d/dd/Discord.png/revision/latest?cb=20221209160533&path-prefix=ru" height="50px">
+				 discord </a>
+			</td>
 		</tr>
 	</table>
 	<table align="center">
