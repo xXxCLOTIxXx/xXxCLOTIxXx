@@ -9,8 +9,8 @@
 		<tr> <th colspan="4">💻Libraries💻</th> </tr>
 		<tr>
 			<td>
-				<a href="https://github.com/xXxCLOTIxXx/AminoXZ"><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
-				 AminoXZ </a>
+				<a href="https://github.com/xXxCLOTIxXx/amino.api"><img src="https://wa1.narvii.com/static/img/amino-logo-white.svg" height="25px">
+				 Amino.api </a>
 			</td>
 			<td>
 				<a href="https://github.com/xXxCLOTIxXx/projectZ.py"><img src="https://i.imgur.com/49WtRwD.png" height="50px">
