@@ -39,8 +39,8 @@
 				 xsera </a>
 			</td>
 			<td>
-				<a href="https://github.com/xXxCLOTIxXx/discord"><img src="https://static.wikia.nocookie.net/hypixel_skyblock/images/d/dd/Discord.png/revision/latest?cb=20221209160533&path-prefix=ru" height="50px">
-				 discord </a>
+				<a href="https://github.com/xXxCLOTIxXx/liberty"><img src="https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Havan_Liberty_Gaminglogo_square.png/revision/latest?cb=20210521035450" height="50px">
+				 liberty </a>
 			</td>
 		</tr>
 	</table>
