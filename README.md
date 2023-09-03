@@ -34,6 +34,14 @@
 				<a href="https://github.com/xXxCLOTIxXx/discord"><img src="https://static.wikia.nocookie.net/hypixel_skyblock/images/d/dd/Discord.png/revision/latest?cb=20221209160533&path-prefix=ru" height="50px">
 				 discord </a>
 			</td>
+			<td>
+				<a href="https://github.com/xXxCLOTIxXx/xsera"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X11.svg" height="50px">
+				 xsera </a>
+			</td>
+			<td>
+				<a href="https://github.com/xXxCLOTIxXx/discord"><img src="https://static.wikia.nocookie.net/hypixel_skyblock/images/d/dd/Discord.png/revision/latest?cb=20221209160533&path-prefix=ru" height="50px">
+				 discord </a>
+			</td>
 		</tr>
 	</table>
 	<table align="center">
