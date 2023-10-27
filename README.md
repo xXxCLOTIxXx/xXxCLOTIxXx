@@ -9,7 +9,7 @@
 		<tr> <th colspan="4">💻Libraries💻</th> </tr>
 		<tr>
 			<td>
-				<a href="https://github.com/xXxCLOTIxXx/amino.api"><img src="https://wa1.aminoapps.com/static/img/amino-logo-white.svg" height="25px">
+				<a href="https://github.com/xXxCLOTIxXx/amino.py"><img src="https://wa1.aminoapps.com/static/img/amino-logo-white.svg" height="25px">
 				 Amino.api </a>
 			</td>
 			<td>
