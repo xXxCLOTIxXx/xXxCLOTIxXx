@@ -44,19 +44,6 @@
 			</td>
 		</tr>
 	</table>
-	<table align="center">
-		<tr> <th colspan="3">💻Scripts / Bots💻</th> </tr>
-		<tr>
-			<td>
-				<a href="https://github.com/xXxCLOTIxXx/aminoCoinGen"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Amino_icon.jpg" height="25px">
-				 Amino Coin Generator </a>
-			</td>
-			<td>
-				<a href="https://github.com/xXxCLOTIxXx/Amino-Account-Generator"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Amino_icon.jpg" height="25px">
-				 Amino Account Generator </a>
-			</td>
-		</tr>
-	</table>	
 	</div>
 		<h1 align="center">📱Contact me📱</h1>
 		<p align="center"><a href="https://t.me/@DXsarz" target="_blank"><img src="https://img.shields.io/badge/@DXsarz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></p>
