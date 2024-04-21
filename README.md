@@ -23,7 +23,7 @@
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/xXxCLOTIxXx/amino.cpp"><img src="https://static.wikia.nocookie.net/hypixel_skyblock/images/d/dd/Discord.png/revision/latest?cb=20221209160533&path-prefix=ru" height="50px">
+				<a href="https://github.com/xXxCLOTIxXx/amino.cpp"><img src="https://wa1.aminoapps.com/static/img/amino-logo-white.svg" height="50px">
 				 Amino.cpp </a>
 			</td>
 			<td>
