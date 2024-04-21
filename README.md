@@ -17,13 +17,13 @@
 				 projectZ.py </a>
 			</td>
 			<td>
-				<a href="https://github.com/xXxCLOTIxXx/nz-ua.py"><img src="https://wa1.aminoapps.com/static/img/amino-logo-white.svg" height="25px">
+				<a href="https://github.com/xXxCLOTIxXx/nz-ua.py"><img src="https://play-lh.googleusercontent.com/UC-6HpOzy5A5lLt4PsMAW3Lfpy8yYmec5EMgRajGGEgmOEYyQmXwzQlRED1z8wfJ4mcz=w240-h480" height="50px">
 				 nz-ua.py </a>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<a href="https://github.com/xXxCLOTIxXx/amino.cpp"><img src="https://wa1.aminoapps.com/static/img/amino-logo-white.svg" height="50px">
+				<a href="https://github.com/xXxCLOTIxXx/amino.cpp"><img src="https://wa1.aminoapps.com/static/img/amino-logo-white.svg" height="25px">
 				 Amino.cpp </a>
 			</td>
 			<td>
