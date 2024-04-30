@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<h1 align="center", style="margin-bottom: 100000px;"><img src="res/welcome.gif", alt="Welcome to my profile👾"></h1><br>
+	<h1 align="center"><img src="res/welcome.gif", alt="Welcome to my profile👾"></h1><br>
 	<div align="center">
 		<a href="https://github.com/xXxCLOTIxXx/xXxCLOTIxXx">
 			<img src="https://github-readme-stats.vercel.app/api?username=xXxCLOTIxXx&show_icons=true&line_height=27&count_private=true&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
 			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXxCLOTIxXx&hide=java,html,tex&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
 		</a>
-		<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=285&lines=Hello%2C+my+name+is+Xsarz." alt="Hello, my name is Xsarz.">
+		<img align="center" src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8EECF5&random=false&width=285&lines=Hello%2C+my+name+is+Xsarz." alt="Hello, my name is Xsarz.">
 		<br>
-		<a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Sponsor me&message=%E2%9D%A4&color=ff69b4" alt="Sponsor me" /></a>
+		<a href="https://github.com/xXxCLOTIxXx/xXxCLOTIxXx/blob/main/sponsor.md"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Sponsor me&message=%E2%9D%A4&color=ff69b4" alt="Sponsor me" /></a>
 	</div>
 	<div align="center">
 		<h1>
