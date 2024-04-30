@@ -1,8 +1,5 @@
 <body>
-	<h1 align="center"> Welcome to my profile👾</h1>
-	<div align="center">
-		<img src="https://i.gifer.com/J4Qb.gif">
-	</div>
+	<h1 align="center"><img src="res/welcome.gif", alt="Welcome to my profile👾"></h1>
 	<br>
 	<div>	
 	<table align="center">
