@@ -38,5 +38,8 @@
 		<img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" alt="github" />
 		<img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VScode" />
 	</div>
+	<div align="center">
+		<img src = "https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+	</div>
 </body>
 <html>
