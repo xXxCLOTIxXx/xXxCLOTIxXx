@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<h1 align="center", style="margin-bottom: 100000px;"><img src="res/welcome.gif", alt="Welcome to my profile👾"></h1><br>
+	<h1 align="center"><img src="res/welcome.gif", alt="Welcome to my profile👾"></h1><br>
 	<div align="center">
 		<a href="https://github.com/xXxCLOTIxXx/xXxCLOTIxXx">
 			<img src="https://github-readme-stats.vercel.app/api?username=xXxCLOTIxXx&show_icons=true&line_height=27&count_private=true&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
