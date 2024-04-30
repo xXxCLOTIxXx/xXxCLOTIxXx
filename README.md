@@ -15,13 +15,13 @@
 		<h1>
 			Current projects
 		</h1>
-		<a href=”https://github.com/xXxCLOTIxXx/projectZ.py">
+		<a href="https://github.com/xXxCLOTIxXx/projectZ.py">
 		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=xXxCLOTIxXx&repo=projectZ.py&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="projectZ.py">
 		</a>
-		<a href=”https://github.com/xXxCLOTIxXx/amino.py">
+		<a href="https://github.com/xXxCLOTIxXx/amino.py">
 		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=xXxCLOTIxXx&repo=amino.py&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="Amino.py">
 		</a>
-		<a href=”https://github.com/xXxCLOTIxXx/amino.cpp">
+		<a href="https://github.com/xXxCLOTIxXx/amino.cpp">
 		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=xXxCLOTIxXx&repo=amino.cpp&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="Amino.cpp">
 		</a>
 		<br><br>
