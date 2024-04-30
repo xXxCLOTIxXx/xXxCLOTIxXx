@@ -1,49 +1,42 @@
+<!DOCTYPE html>
+<html>
 <body>
-	<h1 align="center"> Welcome to my profile👾</h1>
+	<h1 align="center", style="margin-bottom: 100000px;"><img src="res/welcome.gif", alt="Welcome to my profile👾"></h1><br>
 	<div align="center">
-		<img src="https://i.gifer.com/J4Qb.gif">
+		<a href="https://github.com/xXxCLOTIxXx/xXxCLOTIxXx">
+			<img src="https://github-readme-stats.vercel.app/api?username=xXxCLOTIxXx&show_icons=true&line_height=27&count_private=true&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXxCLOTIxXx&hide=java,html,tex&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
+		</a>
+		<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=285&lines=Hello%2C+my+name+is+Xsarz." alt="Hello, my name is Xsarz.">
+		<br>
+		<a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Sponsor me&message=%E2%9D%A4&color=ff69b4" alt="Sponsor me" /></a>
 	</div>
-	<br>
-	<div>	
-	<table align="center">
-		<tr> <th colspan="4">💻Libraries💻</th> </tr>
-		<tr>
-			<td>
-				<a href="https://github.com/xXxCLOTIxXx/amino.py"><img src="https://wa1.aminoapps.com/static/img/amino-logo-white.svg" height="25px">
-				 Amino.api </a>
-			</td>
-			<td>
-				<a href="https://github.com/xXxCLOTIxXx/projectZ.py"><img src="https://i.imgur.com/49WtRwD.png" height="50px">
-				 projectZ.py </a>
-			</td>
-			<td>
-				<a href="https://github.com/xXxCLOTIxXx/nz-ua.py"><img src="https://play-lh.googleusercontent.com/UC-6HpOzy5A5lLt4PsMAW3Lfpy8yYmec5EMgRajGGEgmOEYyQmXwzQlRED1z8wfJ4mcz=w240-h480" height="50px">
-				 nz-ua.py </a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="https://github.com/xXxCLOTIxXx/amino.cpp"><img src="https://wa1.aminoapps.com/static/img/amino-logo-white.svg" height="25px">
-				 Amino.cpp </a>
-			</td>
-			<td>
-				<a href="https://github.com/xXxCLOTIxXx/discord"><img src="https://static.wikia.nocookie.net/hypixel_skyblock/images/d/dd/Discord.png/revision/latest?cb=20221209160533&path-prefix=ru" height="50px">
-				 discord </a>
-			</td>
-			<td>
-				<a href="https://github.com/xXxCLOTIxXx/liberty"><img src="https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e0/Havan_Liberty_Gaminglogo_square.png/revision/latest?cb=20210521035450" height="50px">
-				 liberty </a>
-			</td>
-		</tr>
-	</table>
-	</div>
-		<h1 align="center">📱Contact me📱</h1>
-		<p align="center"><a href="https://t.me/@DXsarz" target="_blank"><img src="https://img.shields.io/badge/@DXsarz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></p>
-		<p align="center"><a href="https://linktr.ee/xsarz" target="_blank"><img src="https://img.shields.io/badge/Contacts-6c757d?style=for-the-badge&logoColor=white"></p>
 	<div align="center">
-		<h2 align="center">🪐Knowledge of programming languages🪐 </h2>
-		<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-		<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-		<img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=for-the-badge">
+		<h1>
+			Current projects
+		</h1>
+		<a href=”https://github.com/xXxCLOTIxXx/projectZ.py">
+		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=xXxCLOTIxXx&repo=projectZ.py&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="projectZ.py">
+		</a>
+		<a href=”https://github.com/xXxCLOTIxXx/amino.py">
+		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=xXxCLOTIxXx&repo=amino.py&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="Amino.py">
+		</a>
+		<a href=”https://github.com/xXxCLOTIxXx/amino.cpp">
+		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=xXxCLOTIxXx&repo=amino.cpp&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="Amino.cpp">
+		</a>
+		<br><br>
+	</div>
+	<div align="center">
+		<h1>
+			My knowledges
+		</h1>
+		<img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus&style=for-the-badge", alt="C++">
+		<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+		<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="html5" />
+		<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="css3" />
+		<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=FFF" alt="Mysql" />
+		<img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" alt="github" />
+		<img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VScode" />
 	</div>
 </body>
+<html>
