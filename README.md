@@ -9,7 +9,7 @@
 		</a>
 		<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=285&lines=Hello%2C+my+name+is+Xsarz." alt="Hello, my name is Xsarz.">
 		<br>
-		<a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Sponsor me&message=%E2%9D%A4&color=ff69b4" alt="Sponsor me" /></a>
+		<a href="https://github.com/xXxCLOTIxXx/xXxCLOTIxXx/blob/main/sponsor.md"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Sponsor me&message=%E2%9D%A4&color=ff69b4" alt="Sponsor me" /></a>
 	</div>
 	<div align="center">
 		<h1>
