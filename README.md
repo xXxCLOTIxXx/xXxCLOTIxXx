@@ -25,8 +25,8 @@
 		<a href="https://github.com/xXxCLOTIxXx/amino.cpp">
 		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=xXxCLOTIxXx&repo=amino.cpp&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="Amino.cpp">
 		</a>
-		<a href="https://github.com/xXxCLOTIxXx/VirtOS">
-		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=xXxCLOTIxXx&repo=VirtOS&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="Amino.cpp">
+		<a href="https://github.com/xXxCLOTIxXx/OrionOS">
+		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=xXxCLOTIxXx&repo=OrionOS&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="OrionOS">
 		</a>
 		<br><br>
 	</div>
