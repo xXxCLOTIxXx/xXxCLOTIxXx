@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<h1 align="center"><img src="res/sorry_image.png", alt="Welcome to my profile👾"></h1><br>
+	<h1 align="center"><img src="res/donate.gif", alt="Project support"></h1><br>
 	<div align="center">
-		<img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F70CF6&random=false&width=465&lines=Sponsorship+is+temporarily+unavailable." alt="Hello, my name is Xsarz.", alt="Sponsorship is temporarily unavailable.">
-		<br>
-
+		
+[![Donation Alerts](https://img.shields.io/badge/Donation_Alerts-FF0000?style=for-the-badge&logo=donate&logoColor=white)](https://www.donationalerts.com/r/dxsarz)	
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)
+		
 [![Return to Home Screen](https://img.shields.io/badge/Home_Screen-000000?style=for-the-badge&logo=home&logoColor=white)](https://github.com/xXxCLOTIxXx)
 	</div>
 </body>
