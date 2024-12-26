@@ -5,7 +5,6 @@
 		<img src="res/welcome.gif" alt="Welcome to my profile👾">
 	</h1>
 	<br>
-	<!-- Контейнер для статистики и ссылок -->
 	<div align="center">
 		<a href="https://github.com/xXxCLOTIxXx/xXxCLOTIxXx">
 			<img src="https://github-readme-stats.vercel.app/api?username=xXxCLOTIxXx&show_icons=true&line_height=27&count_private=true&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
@@ -21,16 +20,14 @@
 			<img src="https://img.shields.io/badge/Контакты-Contacts-F79B1F?style=for-the-badge&logoColor=0077b6&color=0077b6" alt="contacts" />
 		</a>
 	</div>
-	<hr> <!-- Разделитель -->
-	<!-- Проекты -->
+	<hr>
 	<div align="center">
 		<h1>Current Projects</h1>
 		<a href="https://github.com/xXxCLOTIxXx/TectonicOS">
 			<img src="https://github-readme-stats.vercel.app/api/pin/?username=xXxCLOTIxXx&repo=TectonicOS&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="TectonicOS">
 		</a>
 	</div>
-	<hr> <!-- Разделитель -->
-	<!-- Знания -->
+	<hr>
 	<div align="center">
 		<h1>My Knowledges</h1>
 		<div>
@@ -61,10 +58,8 @@
 			<hr>
 		</div>
 			<div>
-			    <!-- SQL Category -->
 			    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=FFF" alt="SQL">
 			    <div>
-			        <!-- MySQL and SQLite -->
 			        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=FFF" alt="MySQL">
 			        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 			    </div>
