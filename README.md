@@ -29,6 +29,9 @@
 		<a href="https://github.com/xXxCLOTIxXx/TectonicOS">
 			<img src="https://github-readme-stats.vercel.app/api/pin/?username=xXxCLOTIxXx&repo=TectonicOS&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="TectonicOS">
 		</a>
+		<a href="https://github.com/xXxCLOTIxXx/discord">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=xXxCLOTIxXx&repo=discord&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="TectonicOS">
+		</a>
 	</div>
 	<hr>
 	<div align="center">
