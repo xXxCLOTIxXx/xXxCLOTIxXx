@@ -19,6 +19,9 @@
 		<a href="https://github.com/xXxCLOTIxXx/xXxCLOTIxXx/blob/main/contacts.md">
 			<img src="https://img.shields.io/badge/Контакты-Contacts-F79B1F?style=for-the-badge&logoColor=0077b6&color=0077b6" alt="contacts" />
 		</a>
+		<a href="https://github.com/xXxCLOTIxXx/xXxCLOTIxXx/blob/main/projects.md">
+			<img src="https://img.shields.io/badge/Проекты-Projects-F79B1F?style=for-the-badge&logoColor=0077b6&color=42f569" alt="contacts" />
+		</a>
 	</div>
 	<hr>
 	<div align="center">
