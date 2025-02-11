@@ -102,7 +102,7 @@ header {
     transition: transform 0.3s ease, box-shadow 0.3s ease; 
 }
 
-.repo-grid img, #projects-list img {
+.repo-grid img, #projects-list img, .stats img {
     width: 100%;
     object-fit: cover;
 }
