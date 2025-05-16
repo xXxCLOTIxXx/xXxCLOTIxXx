@@ -9,9 +9,9 @@
 	<div align="center">
 
 <a href="https://www.donationalerts.com/r/dxsarz" target="_blank">
-  <img src=res/da.png" alt="Donation Alerts">
+  <img src="https://github.com/xXxCLOTIxXx/xXxCLOTIxXx/blob/main/res/da.png" alt="Donation Alerts" width="250">
 </a>
-
+<br>
 		
 <a href="https://www.buymeacoffee.com/xsarz"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xsarz&button_colour=FF5F5F&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
