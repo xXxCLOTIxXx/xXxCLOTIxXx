@@ -10,7 +10,7 @@
 
 [![Donation Alerts](https://img.shields.io/badge/Donation_Alerts-94CEC0?style=for-the-badge&logo=donate&logoColor=white)](https://www.donationalerts.com/r/dxsarz)	
 		
-
+<a href="https://www.buymeacoffee.com/xsarz"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xsarz&button_colour=FF5F5F&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 <img src="res/USDT (TRC20).jpg">
 <br>
