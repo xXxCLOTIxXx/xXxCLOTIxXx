@@ -9,7 +9,7 @@
 	<div align="center">
 
 <a href="https://www.donationalerts.com/r/dxsarz" target="_blank">
-  <img src=res/da.png" alt="Donation Alerts" width="250">
+  <img src=res/da.png" alt="Donation Alerts">
 </a>
 
 		
